@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggnormalviolin",
+    "oncran": true
+  },
+  {
+    "package": "simstandard",
+    "oncran": true
+  },
+  {
+    "package": "unusualprofile",
+    "oncran": true
+  }
+]

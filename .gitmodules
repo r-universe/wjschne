@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggnormalviolin"]
+	path = ggnormalviolin
+	url = https://github.com/wjschne/ggnormalviolin
+	shallow = true
+	registered = true
+[submodule "simstandard"]
+	path = simstandard
+	url = https://github.com/wjschne/simstandard
+	shallow = true
+	registered = true
+[submodule "unusualprofile"]
+	path = unusualprofile
+	url = https://github.com/wjschne/unusualprofile
+	shallow = true
+	registered = true
