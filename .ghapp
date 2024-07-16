@@ -1,0 +1,10 @@
+{
+  "id": 52872189,
+  "created_at": "2024-07-16T19:04:47.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["spiro", "simstandard", "ggnormalviolin", "unusualprofile", "psycheval", "arrowheadr", "ggpathdiagramr", "apa7"]
+}
