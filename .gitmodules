@@ -1,13 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wjschne/wjschne.r-universe.dev
 	branch = HEAD
+[submodule "WJSmisc"]
+	path = WJSmisc
+	url = https://github.com/wjschne/WJSmisc
+[submodule "apa7"]
+	path = apa7
+	url = https://github.com/wjschne/apa7
 [submodule "arrowheadr"]
 	path = arrowheadr
 	url = https://github.com/wjschne/arrowheadr
 [submodule "ggnormalviolin"]
 	path = ggnormalviolin
 	url = https://github.com/wjschne/ggnormalviolin
+[submodule "psycheval"]
+	path = psycheval
+	url = https://github.com/wjschne/psycheval
 [submodule "simstandard"]
 	path = simstandard
 	url = https://github.com/wjschne/simstandard
