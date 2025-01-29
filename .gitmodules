@@ -11,6 +11,9 @@
 [submodule "arrowheadr"]
 	path = arrowheadr
 	url = https://github.com/wjschne/arrowheadr
+[submodule "ggdiagram"]
+	path = ggdiagram
+	url = https://github.com/wjschne/ggdiagram
 [submodule "ggnormalviolin"]
 	path = ggnormalviolin
 	url = https://github.com/wjschne/ggnormalviolin
